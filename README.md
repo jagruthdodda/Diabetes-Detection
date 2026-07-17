@@ -1,4 +1,4 @@
-# Diabetes Detection under Temporal Shift
+# Diabetes Prediction under Temporal Drift
 
 An end-to-end machine learning pipeline and interactive Streamlit dashboard that
 predicts diabetes (HbA1c-defined) from a multi-table synthetic EHR dataset, and
